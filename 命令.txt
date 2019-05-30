@@ -1,0 +1,3 @@
+activate gluon
+set MXNET_GLUON_REPO=https://apache-mxnet.s3.cn-north-1.amazonaws.com.cn/ jupyter notebook
+jupyter notebook
